@@ -17,4 +17,4 @@ Lily Zhang's Portfolio is based on the [Bootstrap](http://getbootstrap.com/) fra
 
 ## Copyright and License
 
-Copyright 2016 Lily Zhang. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.# lilyruo.github.io
+Copyright 2016 Lily Zhang. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
